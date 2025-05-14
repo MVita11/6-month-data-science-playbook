@@ -12,11 +12,11 @@ This repository tracks my 6-month learning plan combining:
 
 ## 🗓 Monthly Focus
 
-| Month | Focus                                  |
+| Phases | Focus                                  |
 |-------|----------------------------------------|
-| 1     | Python, Git, Linear Algebra, EDA       |
-| 2     | Statistics, Hypothesis Testing, SQL    |
-| 3     | Supervised ML, Regression, Classification |
+| 1     | Foundation: Building fluency with Python syntax, data structures and logic |
+| 2     | Intermediate DSA + Maths: Practice algorithms and mathematical coding relevant to data science |
+| 3     | Data Science Core: Learn how to analyse, clean, visualise |
 | 4     | Advanced ML, Ensembling, Deep Learning |
 | 5     | Time Series, Forecasting, NLP Basics   |
 | 6     | MLOps, Deployment, Real-World Projects |
